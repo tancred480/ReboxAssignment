@@ -1,0 +1,17 @@
+.updateFormDiv {
+  position: absolute;
+  top: 45%;
+  padding: 1rem;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50%;
+  height: 70%;
+}
+h3 {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 700;
+  color: midnightblue;
+}
